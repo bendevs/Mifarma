@@ -9,7 +9,7 @@
 					<span>
 						<img src="{{ url('img/logo.png') }}" style="width: 10%">
 					</span>
-					<span>Farma</span>Segura
+					<span>Nico</span>Farma
 				</a>
 				<ul class="nav navbar-top-links navbar-right">
 					<li style="margin-right: 2em; margin-top: 1em;">

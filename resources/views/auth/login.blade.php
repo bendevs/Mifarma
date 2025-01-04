@@ -4,7 +4,7 @@
 	<div class="container h-100">
 		<div class="row justify-content-md-center h-100">
 			<div class="card-wrapper">
-				<h1 class="h1 text-center"><span style="color: #30a5ff;">FARMA</span>SEGURA</h1>
+				<h1 class="h1 text-center"><span style="color: #30a5ff;">NICO</span>FARMA</h1>
 				<div class="text-center">
 				<img src="{{ url('/img/logo.png') }}" class="img-responsive center-block" style="margin-bottom: 10px">
 				</div>

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
-	<title>FarmaSegura</title>
+	<title>NicoFarma</title>
 	<link rel="shortcut icon" href="{{ url('img/favicon.ico') }}">
 	<link href="{{ url('css/bootstrap-custom.css') }}" rel="stylesheet"/>
 	<link href="{{ url('lumino/css/bootstrap.min.css') }}" rel="stylesheet"/>
